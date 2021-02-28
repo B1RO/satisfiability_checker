@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/satisfiability_checker/static/css/main.40181049.chunk.css",
+    "main.js": "/satisfiability_checker/static/js/main.63d19ee3.chunk.js",
+    "main.js.map": "/satisfiability_checker/static/js/main.63d19ee3.chunk.js.map",
+    "runtime-main.js": "/satisfiability_checker/static/js/runtime-main.5b498db3.js",
+    "runtime-main.js.map": "/satisfiability_checker/static/js/runtime-main.5b498db3.js.map",
+    "static/css/2.1e58ee36.chunk.css": "/satisfiability_checker/static/css/2.1e58ee36.chunk.css",
+    "static/js/2.55dc0195.chunk.js": "/satisfiability_checker/static/js/2.55dc0195.chunk.js",
+    "static/js/2.55dc0195.chunk.js.map": "/satisfiability_checker/static/js/2.55dc0195.chunk.js.map",
+    "static/js/3.a752681f.chunk.js": "/satisfiability_checker/static/js/3.a752681f.chunk.js",
+    "static/js/3.a752681f.chunk.js.map": "/satisfiability_checker/static/js/3.a752681f.chunk.js.map",
+    "index.html": "/satisfiability_checker/index.html",
+    "static/css/2.1e58ee36.chunk.css.map": "/satisfiability_checker/static/css/2.1e58ee36.chunk.css.map",
+    "static/css/main.40181049.chunk.css.map": "/satisfiability_checker/static/css/main.40181049.chunk.css.map",
+    "static/js/2.55dc0195.chunk.js.LICENSE.txt": "/satisfiability_checker/static/js/2.55dc0195.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b498db3.js",
+    "static/css/2.1e58ee36.chunk.css",
+    "static/js/2.55dc0195.chunk.js",
+    "static/css/main.40181049.chunk.css",
+    "static/js/main.63d19ee3.chunk.js"
+  ]
+}
